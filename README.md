@@ -16,7 +16,7 @@ guards   (▣ ) can move exactly 2 orthogonally then 1, 2, or 3 orthogonally in 
 
 guards are special as they can move through pieces but get scared and can't move if there are 3 or more pieces nearby
 
-'''text
+```text
 | |x| | | |x| |
 |x|x|x| |x|x|x|
 | |x| | | |x| |
@@ -24,7 +24,7 @@ guards are special as they can move through pieces but get scared and can't move
 | |x| | | |x| |
 |x|x|x| |x|x|x|
 | |x| | | |x| |
-'''
+```
 
 royals   (▣ ) can move 1 in any direction
 advisors (◦◦) can move 2 diagonally 
