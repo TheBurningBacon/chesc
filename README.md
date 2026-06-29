@@ -1,6 +1,7 @@
 # chesc
+
 version of chess but worse
-monks    (◉ ) can move 1 diagonally(in an x) or 2 orthogonally(in a +)
+'''monks    (◉ ) can move 1 diagonally(in an x) or 2 orthogonally(in a +)
 bankers  (◬ ) can move 3 diagonally or 3 orthogonally
 bakers   (◓ ) can move 8 orthogonally
 farmers  (◇ ) can move 8 diagonally or 1 orthogonally
@@ -16,7 +17,7 @@ guards   (▣ ) can move exactly 2 orthogonally then 1, 2, or 3 orthogonally in 
         |x|x|x| |x|x|x|
         | |x| | | |x| |
 royals   (▣ ) can move 1 in any direction
-advisors (◦◦) can move 2 diagonally 
+advisors (◦◦) can move 2 diagonally '''
 
 if you have no farmers and no truckers you lose the game
 
