@@ -41,3 +41,7 @@ if you get all your monks on the last rank you win the game
 
 notation is entered in as (piece you want to move)(were to move) with no spaces
 ex: A3A2 would move the piece on the A3 tile to the A2 tile
+
+## Example
+
+    winner=chesc.startgame()
