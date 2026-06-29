@@ -15,14 +15,15 @@ truckers (◈ ) can move 4 diagonally or 4 orthogonally
 guards   (▣ ) can move exactly 2 orthogonally then 1, 2, or 3 orthogonally in a perpendicular dircetion
 
 guards are special as they can move through pieces but get scared and can't move if there are 3 or more pieces nearby
-    '''text
-        | |x| | | |x| |
-        |x|x|x| |x|x|x|
-        | |x| | | |x| |
-        | | | |0| | | |
-        | |x| | | |x| |
-        |x|x|x| |x|x|x|
-        | |x| | | |x| |
+
+'''text
+| |x| | | |x| |
+|x|x|x| |x|x|x|
+| |x| | | |x| |
+| | | |0| | | |
+| |x| | | |x| |
+|x|x|x| |x|x|x|
+| |x| | | |x| |
 '''
 royals   (▣ ) can move 1 in any direction
 advisors (◦◦) can move 2 diagonally 
